@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11f4fa9-9c86-450f-9827-bac58b80fcf5" name="Default" comment="第三次修改springcloud">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_0_M9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/service-feign/src/main/java/com/baidu/servicefeign/feign/SchedualServiceHiHystic/SchedualServiceHiHystric.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="e11f4fa9-9c86-450f-9827-bac58b80fcf5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/baidu/configclient/ConfigClientApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/src/test/java/com/baidu/configclient/ConfigClientApplicationTests.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/service-feign/src/main/java/com/baidu/servicefeign/feign/SchedualServiceHi.java" afterPath="$PROJECT_DIR$/service-feign/src/main/java/com/baidu/servicefeign/feign/SchedualServiceHi.java" />
-      <change beforePath="$PROJECT_DIR$/service-feign/src/main/java/com/baidu/servicefeign/feign/SchedualServiceHiHystric(1).java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
@@ -120,39 +121,6 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="config-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +309,7 @@
       <workItem from="1523944019546" duration="11413000" />
       <workItem from="1523956196181" duration="2000" />
       <workItem from="1523956336133" duration="7000" />
-      <workItem from="1524196888063" duration="6175000" />
+      <workItem from="1524196888063" duration="6312000" />
     </task>
     <task id="LOCAL-00001" summary="第三次修改springcloud">
       <created>1524197169530</created>
@@ -350,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524197169530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第四次修改springcloud">
+      <created>1524209195434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524209195434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19504000" />
+    <option name="totallyTimeSpent" value="19641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -401,7 +376,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第三次修改springcloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次修改springcloud" />
+    <MESSAGE value="第四次修改springcloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次修改springcloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
